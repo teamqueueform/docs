@@ -65,7 +65,7 @@
         {
           "anchor": "QueueForm",
           "href": "https://queueform.com/",
-          "icon": "home"
+          "icon": "book-open-cover"
         },
         {
           "anchor": "Blog",
@@ -83,20 +83,20 @@
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "mailto:porush@queueform.com"
       }
     ],
     "primary": {
       "type": "button",
       "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "href": "https://www.queueform.com/"
     }
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "x": "https://x.com/queueform",
+      "github": "https://github.com/teamqueueform",
+      "linkedin": "https://www.linkedin.com/company/queueform"
     }
   }
 }
