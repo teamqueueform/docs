@@ -23,12 +23,11 @@
           {
             "group": "Creating Campaigns",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
+              "Campaigns/FromAI.mdx",
+              "Campaigns/FromScratch.mdx",
+              "Campaigns/FromTemplate.mdx",
+              "Campaigns/Integrations3rdParty.mdx",
+              "Campaigns/IntegratoinsTriggerWidget.mdx"
             ]
           }
         ]
@@ -68,7 +67,7 @@
     "primary": {
       "type": "button",
       "label": "Dashboard",
-      "href": "https://www.queueform.com/"
+      "href": "https://www.app.queueform.com/"
     }
   },
   "footer": {
