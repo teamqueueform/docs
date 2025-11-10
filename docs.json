@@ -23,11 +23,11 @@
           {
             "group": "Creating Campaigns",
             "pages": [
-              "Campaigns/FromAI.mdx",
-              "Campaigns/FromScratch.mdx",
-              "Campaigns/FromTemplate.mdx",
-              "Campaigns/Integrations3rdParty.mdx",
-              "Campaigns/IntegratoinsTriggerWidget.mdx"
+              "Campaigns/FromAI",
+              "Campaigns/FromScratch",
+              "Campaigns/FromTemplate",
+              "Campaigns/Integrations3rdParty",
+              "Campaigns/IntegratoinsTriggerWidget"
             ]
           }
         ]
