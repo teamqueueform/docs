@@ -12,22 +12,29 @@
     "tabs": [
       {
         "tab": "Guides",
-        "groups": [
+        "groups":
+        [
           {
-            "group": "Get Started",
-            "pages": [
-              "index",
-              "quickstart"
+            "group": "Overview",
+            "pages": 
+            [
+              "what-is-queueform",
+              "key-features",
+              "why-build-a-waitlist",
+              "integrations",
+              "use-cases"
             ]
           },
           {
-            "group": "Creating Campaigns",
+            "group": "Getting Started with QueueForm",
             "pages": [
-              "Campaigns/FromAI",
-              "Campaigns/FromScratch",
-              "Campaigns/FromTemplate",
-              "Campaigns/Integrations3rdParty",
-              "Campaigns/IntegratoinsTriggerWidget"
+              "creating-a-queueform-waitlist",
+              "new-campaign",
+              "start-from-scratch",
+              "use-a-template",
+              "create-using-ai",
+              "teams",
+              "help-support"
             ]
           }
         ]
