@@ -18,22 +18,38 @@
             "group": "Overview",
             "pages": 
             [
-              "what-is-queueform",
-              "key-features",
-              "why-build-a-waitlist",
-              "integrations",
-              "use-cases"
+              "Overview/what-is-queueform",
+              "Overview/key-features",
+              "Overview/why-build-a-waitlist",
+              "Overview/integrations",
+              "Overview/use-cases"
             ]
           },
           {
             "group": "Creating A QueueForm Waitlist",
             "pages": [
-              "creating-a-queueform-waitlist",
-              "start-from-scratch",
-              "use-a-template",
-              "create-using-ai",
-              "teams",
-              "help-support"
+              "Campaigns/creating-a-queueform-waitlist",
+              "Campaigns/start-from-scratch",
+              "Campaigns/use-a-template",
+              "Campaigns/create-using-ai",
+              "Campaigns/teams",
+              "Campaigns/help-support"
+            ]
+          },
+          {
+            "group": "Integrations",
+            "pages": [
+              "Integration/beehiiv",
+              "Integration/bitrix24",
+              "Integration/crm-n-email-tools",
+              "Integration/google-analytics",
+              "Integration/google-sheets",
+              "Integration/mailchimp",
+              "Integration/meta-pixel",
+              "Integration/notion",
+              "Integration/slack",
+              "Integration/webhooks",
+              "Integration/zapier"
             ]
           }
         ]
